@@ -2,3 +2,4 @@ pywhatkit == 5.4
 opencv-python == 4.6.0.66
 geopy == 2.2.0
 pyqrcode == 1.2.1
+emoji == 2.0.0
