@@ -11,3 +11,15 @@
 6. **Day 6** : Counting Characters Occurence
 
 7. **Day 7** : Print Emojis (Unicode)
+
+8. **Day 8** : Dictionary
+
+9. **Day 9** : For Loop
+
+10. **Day 10** : Lambda
+
+11. **Day 11** : DateTime
+
+12. **Day 12** : Acronyms
+
+13. **Day 13** : Generate Password
