@@ -23,3 +23,17 @@
 12. **Day 12** : Acronyms
 
 13. **Day 13** : Generate Password
+
+14. **Day 14** : Checks if the list contains integer x
+
+15. **Day 15** : Find duplicate number in integer list
+
+16. **Day 16** : Find max and min in a list
+
+17. **Day 17** : Fibonacci Series
+
+18. **Day 18** : Check if two strings are anagrams
+
+19. **Day 19** : Palindrome
+
+20. **Day 20** : Stack, Array and Queue
